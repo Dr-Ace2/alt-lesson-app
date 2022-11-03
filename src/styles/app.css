@@ -1,0 +1,24 @@
+.action-btn{
+    background-color: green;
+    width: 50px;
+    display: inline;
+    width: 150px;
+    padding: 15px 32px;
+    border-color: white;
+    border-radius: 15px;
+    margin:20px;
+
+}
+
+.counter-cont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.proplist{
+
+    color: red;
+}

@@ -1,0 +1,28 @@
+.card{
+    width: 50%;
+    height: 20%;
+    background-color: rgba(0, 128, 0, 0.076);
+    max-width: 20%;
+    border-radius: 15px;
+ 
+ }
+ 
+ .card p{
+ 
+   font-style: italic;
+   color: red;
+   
+ }
+ 
+ .card img{
+   border-radius: 50px;
+ }
+
+ .loop{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  /* width :50%;
+  height: 50%; */
+ }
+ 
